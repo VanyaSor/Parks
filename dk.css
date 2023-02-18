@@ -107,6 +107,7 @@ input#toggle:checked+label[for="toggle"] {
     width: 300px;
     text-align: center;
     overflow: hidden;
+    margin: 0 auto;
 
     padding-left: 40pt;
 }
