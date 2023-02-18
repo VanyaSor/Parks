@@ -132,6 +132,7 @@ input#toggle:checked+label[for="toggle"] {
     background: #666;
     border-radius: 10px;
 }
+
         
 .slides::-webkit-scrollbar-track {
     background: transparent;
